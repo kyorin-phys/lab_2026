@@ -1,5 +1,8 @@
 # lab_2026
 2026年度研究室配属用
 
-1. 8/24 [DAY1/README.md](DAY1)
-2. 
+* 8/24 [DAY1/README.md](DAY1)
+* 8/25 [DAY2/README.md](DAY2)
+* 8/26 [DAY3/README.md](DAY3)
+* 8/27 [DAY4/README.md](DAY4)
+* 8/28 [DAY5/README.md](DAY5) 
